@@ -1,3 +1,7 @@
+name: Main
+
+on: [ push ]
+
 jobs:
   call-workflow:
     uses: jmm-podium/actions/.github/workflows/deleteme.yml@main
