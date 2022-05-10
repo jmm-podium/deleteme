@@ -1,3 +1,3 @@
 jobs:
   call-workflow:
-    uses: jmm-podium/.github/workflows/deleteme.yml@main
+    uses: jmm-podium/actions/workflows/deleteme.yml@main
