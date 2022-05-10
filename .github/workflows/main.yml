@@ -8,4 +8,4 @@ jobs:
     with:
       username: hola
     secrets:
-      token: secrets!
+      token: secrets!!!
